@@ -13,6 +13,7 @@
 <html>
 <head><title>내장 객체 - request</title></head>
 <body>
+<h1>20252358 : 최윤서</h1>
 <h2>1. 클라이언트와 서버의 환경정보 읽기</h2>
 <a href="./ex2_2.jsp?eng=Hello&han=안녕">  <!--GET 방식으로 요청-->
   GET 방식 전송
@@ -40,7 +41,6 @@
   <br />
   <input type="submit" value="전송하기" />
 </form>
-<h1>20252358 : 최윤서</h1>
 <h2>3. HTTP 요청 헤더 정보 읽기</h2>
 <a href="ex2_4.jsp">  <!--HTTP 요청 헤더 읽기-->
   요청 헤더 정보 읽기

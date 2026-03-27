@@ -10,12 +10,12 @@
 <html>
 <head><title>내장 객체 - out</title></head>
 <body>
-<h1>20252358 : 최윤서</h1>
 <%
     // 버퍼 내용 삭제하기
     out.print("출력되지 않는 텍스트");  // 버퍼에 저장
     out.clearBuffer();  // 버퍼를 비움(윗 줄의 출력 결과 사라짐)
 
+    out.print("<h1>20252358 : 최윤서</h1>");
     out.print("<h2>out 내장 객체</h2>");
 
     // 버퍼 크기 정보 확인

@@ -15,6 +15,7 @@
   <title>page 지시어 - trimDirectiveWhitespaces 속성</title>
 </head>
 <body>
+<h1>20252358 : 최윤서</h1>
 <h2>page 지시어로 생긴 불필요한 공백 제거</h2>
 </body>
 </html>
