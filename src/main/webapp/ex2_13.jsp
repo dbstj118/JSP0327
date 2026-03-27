@@ -10,6 +10,7 @@
 <html>
 <head><title>내장 객체 - exception</title></head>
 <body>
+<h1>20252358 : 최윤서</h1>
 <%
   int status = response.getStatus();  // response 내장 객체로부터 에러 코드 확인
 

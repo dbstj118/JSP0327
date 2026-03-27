@@ -9,6 +9,7 @@
 <%@ page import="java.time.LocalDate"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
+<h1>20252358 : 최윤서</h1>
 <%
   LocalDate today = LocalDate.now();  // 오늘 날짜
   LocalDateTime tomorrow = LocalDateTime.now().plusDays(1);  // 내일 날짜

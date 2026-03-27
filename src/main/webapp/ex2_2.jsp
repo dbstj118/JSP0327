@@ -13,6 +13,7 @@
 <html>
 <head><title>내장 객체 - request</title></head>
 <body>
+<h1>20252358 : 최윤서</h1>
 <h2>1. 클라이언트와 서버의 환경정보 읽기</h2>
 <ul>
   <li>데이터 전송 방식 : <%= request.getMethod() %></li>

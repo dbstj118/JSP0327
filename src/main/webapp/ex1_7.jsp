@@ -14,6 +14,7 @@
   <title>page 지시어 - buffer, autoFlush 속성</title>
 </head>
 <body>
+<h1>20252358 : 최윤서</h1>
 <%
   for (int i = 1; i <= 100; i++) {  // 버퍼 채우기
     out.println("abcde12345");

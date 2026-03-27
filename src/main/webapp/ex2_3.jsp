@@ -10,6 +10,7 @@
 <html>
 <head><title>내장 객체 - request</title></head>
 <body>
+<h1>20252358 : 최윤서</h1>
 <%
   request.setCharacterEncoding("UTF-8");
   String id = request.getParameter("id");

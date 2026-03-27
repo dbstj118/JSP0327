@@ -30,6 +30,7 @@
 <html>
 <head><title>내장 객체 - response</title></head>
 <body>
+<h1>20252358 : 최윤서</h1>
 <h2>응답 헤더 정보 출력하기</h2>
 <%
   Collection<String> headerNames = response.getHeaderNames();

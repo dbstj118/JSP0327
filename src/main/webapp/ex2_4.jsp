@@ -11,6 +11,7 @@
 <html>
 <head><title>내장 객체 - request</title></head>
 <body>
+<h1>20252358 : 최윤서</h1>
 <h2>3. 요청 헤더 정보 출력하기</h2>
 <%
   Enumeration headers = request.getHeaderNames();

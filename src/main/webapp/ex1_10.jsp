@@ -15,6 +15,7 @@
 <html>
 <head><title>스크립트 요소</title></head>
 <body>
+<h1>20252358 : 최윤서</h1>
 <%  // 스크립틀릿(자바 코드)
   int result = add(10, 20);
 %>

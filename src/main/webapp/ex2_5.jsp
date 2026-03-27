@@ -10,6 +10,7 @@
 <html>
 <head><title>내장 객체 - response</title></head>
 <body>
+<h1>20252358 : 최윤서</h1>
 <h2>1. 로그인 폼</h2>
 <%
   String loginErr = request.getParameter("loginErr");

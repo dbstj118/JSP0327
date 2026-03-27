@@ -27,3 +27,4 @@ version="6.0">
 <location>/ex2_12.jsp</location>
 </error-page>
 </web-app> -->
+<h1>20252358 : 최윤서</h1>

@@ -10,6 +10,7 @@
 <html>
 <head><title>내장 객체 - out</title></head>
 <body>
+<h1>20252358 : 최윤서</h1>
 <%
     // 버퍼 내용 삭제하기
     out.print("출력되지 않는 텍스트");  // 버퍼에 저장

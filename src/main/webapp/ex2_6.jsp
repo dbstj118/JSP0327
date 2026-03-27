@@ -10,6 +10,7 @@
 <html>
 <head><title>내장 객체 - Response</title></head>
 <body>
+<h1>20252358 : 최윤서</h1>
 <%
   String id = request.getParameter("user_id");
   String pwd = request.getParameter("user_pwd");
